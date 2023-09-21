@@ -2,7 +2,9 @@
 
 This is a repository for completing one leet code for a day!
 
-Day 1 /n
+Total=7
+
+Day 1 
 
 2235. Add Two Integers
 
