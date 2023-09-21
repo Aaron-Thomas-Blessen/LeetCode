@@ -14,3 +14,4 @@ Day3
 1342. Number of Steps to Reduce a Number to Zero
 
 Day4
+876. Middle of the Linked List
