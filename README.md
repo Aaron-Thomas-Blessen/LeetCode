@@ -2,7 +2,7 @@
 
 This is a repository for completing one leet code for a day!
 
-Total=7
+Total=8
 
 Day 1 
 
@@ -25,3 +25,8 @@ Day4
 876. Middle of the Linked List
 
 383. Ransom Note
+
+Day5
+
+392. Is Subsequence
+
