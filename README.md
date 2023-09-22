@@ -29,4 +29,6 @@ Day4
 Day5
 
 392. Is Subsequence
+     
+1. Two Sum
 
