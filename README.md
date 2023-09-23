@@ -2,7 +2,7 @@
 
 This is a repository for completing one leet code for a day!
 
-Total=8
+Total=9
 
 Day 1 
 
@@ -32,3 +32,6 @@ Day5
      
 1. Two Sum
 
+Day6
+
+9. Palindrome Number
