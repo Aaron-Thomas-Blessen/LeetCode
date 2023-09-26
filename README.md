@@ -2,7 +2,7 @@
 
 This is a repository for completing one leet code for a day!
 
-Total=9
+Total=10
 
 Day 1 
 
@@ -35,3 +35,7 @@ Day5
 Day6
 
 9. Palindrome Number
+
+Day7 
+
+389. Find the Difference
