@@ -2,7 +2,7 @@
 
 This is a repository for completing one leet code for a day!
 
-Total=11
+Total=12
 
 Day 1 
 
@@ -47,3 +47,7 @@ Day8
 Day9
 
 14. Longest Common Prefix
+
+Day10
+
+26. Remove Duplicates from Sorted Array
