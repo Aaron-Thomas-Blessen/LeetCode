@@ -2,7 +2,7 @@
 
 This is a repository for completing one leet code for a day!
 
-Total=12
+Total=15
 
 Day 1 
 
@@ -57,3 +57,9 @@ Day11
 35. Search Insert Position
 
 66. Plus One
+
+Day12
+
+88. Merge Sorted Array
+
+
