@@ -2,7 +2,7 @@
 
 This is a repository for completing one leet code for a day!
 
-Total=15
+Total=16
 
 Day 1 
 
@@ -62,4 +62,6 @@ Day12
 
 88. Merge Sorted Array
 
+Day13
 
+121. Best Time to Buy and Sell Stock
