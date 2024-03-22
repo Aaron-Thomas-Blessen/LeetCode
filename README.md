@@ -2,7 +2,7 @@
 
 This is a repository for completing one leet code for a day!
 
-Total=16
+Total=17
 
 Day 1 
 
@@ -65,3 +65,7 @@ Day12
 Day13
 
 121. Best Time to Buy and Sell Stock
+
+Day14
+
+136. Single Number
