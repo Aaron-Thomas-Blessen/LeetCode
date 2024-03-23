@@ -69,3 +69,7 @@ Day13
 Day14
 
 136. Single Number
+
+Day15
+
+27. Remove Element
