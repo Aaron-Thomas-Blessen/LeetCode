@@ -73,3 +73,7 @@ Day14
 Day15
 
 27. Remove Element
+
+Day16
+
+169. Majority Element
