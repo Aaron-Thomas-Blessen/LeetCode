@@ -2,7 +2,7 @@
 
 This is a repository for completing one leet code for a day!
 
-Total=17
+Total=21
 
 Day 1 
 
@@ -77,3 +77,13 @@ Day15
 Day16
 
 169. Majority Element
+
+Day17
+
+1929. Concatenation of Array
+
+1920. Build Array from Permutation
+
+1512. Number of Good Pairs
+
+2011. Final Value of Variable After Performing Operations
