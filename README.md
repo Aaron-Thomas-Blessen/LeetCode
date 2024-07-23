@@ -87,3 +87,7 @@ Day17
 1512. Number of Good Pairs
 
 2011. Final Value of Variable After Performing Operations
+
+Day18
+
+283. Move Zeroes
