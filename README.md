@@ -91,3 +91,15 @@ Day17
 Day18
 
 283. Move Zeroes
+
+Day 19
+
+287. Find the Duplicate Number (M)
+
+75. Sort Colors (M)
+
+Day 20
+
+73. Set Matrix Zeroes (M)
+
+121. Best Time to Buy and Sell Stock
