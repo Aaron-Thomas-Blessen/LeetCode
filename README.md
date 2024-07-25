@@ -103,3 +103,8 @@ Day 20
 73. Set Matrix Zeroes (M)
 
 121. Best Time to Buy and Sell Stock
+
+Day 21
+
+20. Valid Parentheses
+
